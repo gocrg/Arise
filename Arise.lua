@@ -1,5 +1,4 @@
 -- Arise UI System
--- Combined Command Bar, Command List, and Notification System
 -- Made By 2y/Rukuu Discord: goc2v
 
 local TweenService = game:GetService("TweenService")
